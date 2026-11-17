@@ -56,4 +56,4 @@ body:
       label: Before you send
       options:
         - label: I searched the open issues and this has not been reported yet.
-          required: true
+          required: true 
